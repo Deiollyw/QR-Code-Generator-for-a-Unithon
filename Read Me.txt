@@ -1,0 +1,9 @@
+Some of the files may not work with your computer. You can simply change the directory of the files in lines (18, 19) to your own desired directory (READ BELOW). Ensure that they start with 'r' to work properly, as r means 'Raw String' and that's how python handles it :)
+
+
+
+WARNING WARNING WARNING 
+
+THIS APP USES THE os.remove() FUNCTION, BE VERY CAREFUL AS TO NOT PUT A DIRECTORY SUCH AS DOWNLOADS, DOCUMENTS, DESKTOP, etc. IT CAN VERY EASILY DELETE ALL OF YOUR DATA.
+
+BE VERY CAREFUL.
